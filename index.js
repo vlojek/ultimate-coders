@@ -1,0 +1,1 @@
+const aNumber=5;
